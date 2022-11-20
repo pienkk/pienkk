@@ -2,7 +2,7 @@
 
 ## Tech Stack
 <br>
-
+<div>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=Mysql&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
@@ -11,14 +11,16 @@
 <img src="https://img.shields.io/badge/AWS S3-FF9900?style=for-the-badge&logo=AMAZON S3&logoColor=black">
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=AMAZON EC2&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </div>
 <br>
 <br>
 
 ## Tools
 <br>
-
+<div>
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  </div>
 <br>
 <br>
 
