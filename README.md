@@ -11,6 +11,11 @@
 <img src="https://img.shields.io/badge/AWS S3-FF9900?style=for-the-badge&logo=AMAZON S3&logoColor=black">
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=AMAZON EC2&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeORM-22314E?style=for-the-badge&logo=ROS&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  
   </div>
 <br>
 <br>
